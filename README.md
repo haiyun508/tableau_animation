@@ -1,2 +1,2 @@
 # tableau_animation
-<img src="18973622.jpg" width=600 />
+<img src="drawing.svg" width=600 />
